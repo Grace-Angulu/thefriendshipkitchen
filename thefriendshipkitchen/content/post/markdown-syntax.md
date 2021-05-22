@@ -1,5 +1,5 @@
 ---
-author: "Wamo"
+author: "The Friendship Kitchen"
 title: "Image Test"
 image: "img/prism.jpg"
 draft: false
