@@ -1,30 +1,14 @@
-+++
-author = "Hugo Authors"
-title = "Rich Content"
-date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
-tags = [
-    "shortcodes",
-    "privacy",
-]
-archives = ["2019/03"]
-+++
+---
+author: "Wamo"
+title: "Image Test"
+image: "img/prism.jpg"
+draft: false
+date: 2020-08-14
+description: "Image Test"
+tags: ["themes"]
+archives: ["2020/08"]
+---
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla dui eu mi iaculis, sit amet congue lacus porta. Ut nec porta ex. Morbi nec massa sodales, finibus urna et, condimentum odio. Nulla ornare est ac egestas varius. Duis faucibus sapien non risus pretium vestibulum. Ut rutrum lorem ut euismod maximus. Vestibulum metus urna, ultrices nec sapien sit amet, malesuada tincidunt quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque ornare ipsum quis leo mattis, et tincidunt lacus feugiat. Aenean non vestibulum metus, vitae mattis sapien. Maecenas ut tortor viverra, finibus risus blandit, ultrices elit. Etiam cursus felis imperdiet ultrices ullamcorper. Ut diam nibh, porttitor at mauris laoreet, laoreet suscipit tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras vitae blandit quam.
 
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+link [KaTeX](https://katex.org/)
